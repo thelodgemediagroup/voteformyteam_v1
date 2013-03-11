@@ -1,0 +1,27 @@
+[18-Dec-2012 23:29:07] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home2/intranet/public_html/voteformyteam/application/controllers/success.php on line 57
+[18-Dec-2012 23:29:07] PHP Parse error:  syntax error, unexpected '/', expecting ')' in /home2/intranet/public_html/voteformyteam/application/controllers/success.php on line 57
+[18-Dec-2012 23:29:14] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home2/intranet/public_html/voteformyteam/application/controllers/success.php on line 57
+[18-Dec-2012 23:29:14] PHP Parse error:  syntax error, unexpected '/', expecting ')' in /home2/intranet/public_html/voteformyteam/application/controllers/success.php on line 57
+[19-Dec-2012 13:56:02] PHP Parse error:  syntax error, unexpected T_PUBLIC, expecting T_STRING in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 17
+[19-Dec-2012 13:58:14] PHP Parse error:  syntax error, unexpected T_PUBLIC, expecting T_STRING in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 17
+[19-Dec-2012 13:58:22] PHP Parse error:  syntax error, unexpected T_PUBLIC, expecting T_STRING in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 17
+[19-Dec-2012 13:58:51] PHP Parse error:  syntax error, unexpected T_PUBLIC, expecting T_STRING in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 17
+[19-Dec-2012 13:58:54] PHP Parse error:  syntax error, unexpected T_PUBLIC, expecting T_STRING in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 17
+[19-Dec-2012 13:59:14] PHP Parse error:  syntax error, unexpected T_PUBLIC, expecting T_STRING in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 17
+[19-Dec-2012 13:59:19] PHP Parse error:  syntax error, unexpected T_PUBLIC, expecting T_STRING in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 17
+[19-Dec-2012 13:59:48] PHP Parse error:  syntax error, unexpected T_PUBLIC, expecting T_STRING in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 17
+[19-Dec-2012 14:00:13] PHP Parse error:  syntax error, unexpected T_PUBLIC, expecting T_STRING in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 17
+[19-Dec-2012 14:04:21] PHP Fatal error:  Call to a member function result() on a non-object in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 22
+[19-Dec-2012 20:12:41] PHP Fatal error:  Call to a member function result() on a non-object in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 22
+[19-Dec-2012 20:16:00] PHP Fatal error:  Call to a member function result() on a non-object in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 22
+[19-Dec-2012 20:16:05] PHP Fatal error:  Call to a member function result() on a non-object in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 22
+[19-Dec-2012 20:16:25] PHP Fatal error:  Call to a member function result() on a non-object in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 22
+[19-Dec-2012 20:16:55] PHP Fatal error:  Call to a member function result() on a non-object in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 22
+[19-Dec-2012 20:18:19] PHP Fatal error:  Call to a member function result() on a non-object in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 22
+[19-Dec-2012 20:18:25] PHP Fatal error:  Call to a member function result() on a non-object in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 22
+[19-Dec-2012 20:18:58] PHP Fatal error:  Call to a member function result() on a non-object in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 22
+[19-Dec-2012 20:26:40] PHP Fatal error:  Call to a member function result() on a non-object in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 22
+[19-Dec-2012 20:28:00] PHP Fatal error:  Call to a member function result() on a non-object in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 22
+[19-Dec-2012 20:28:13] PHP Fatal error:  Call to a member function result() on a non-object in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 22
+[19-Dec-2012 20:29:30] PHP Fatal error:  Call to a member function result() on a non-object in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 22
+[19-Dec-2012 20:30:31] PHP Fatal error:  Call to a member function result() on a non-object in /home2/intranet/public_html/voteformyteam/application/models/vote_model.php on line 22

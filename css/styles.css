@@ -1,0 +1,158 @@
+.clear {
+		clear: both;
+	}
+
+	#container {
+		width:900px;
+		margin:0 auto;
+		background:url('../img/background.jpg') repeat-x;
+		padding:0 0 40px 0;
+	}
+	#content {
+		padding:0 0 40px 0;
+	}
+	#teams {
+		margin: 60px auto 0;
+		width:844px;
+	}
+
+	#formsVote {
+		margin:0;
+	}
+
+	.formsVote {
+		width: 200px;
+	}
+
+	#formVoteTeamA {
+		float: left;
+		margin: 0 0 0 100px;
+	}
+
+	#formVoteTeamB {
+		float: right;
+		margin: 0 100px 0 0;
+	}
+
+	.voteQuantity {
+		width:80px;
+		height:28px;
+		font-size:28px;
+		text-align:center;
+	}
+
+	.voteSubmitBtn {
+		vertical-align: middle;
+	}
+	/*
+	#results {
+		height:400px;
+		position:relative;
+	}
+
+	#resultTeamOne {
+		width: 120px;
+		float: left;
+		margin: 0 50px 0 0;
+		position:absolute; 
+		bottom:0;
+	}
+
+	#resultTeamTwo {
+		width: 120px;
+		float: left;
+		margin: 0 0 0 0;
+		position:absolute; 
+		bottom:0;
+	}
+	*/
+
+	#graph {
+		background-image: url('../img/graphBG.png');
+		height: 300px;
+		margin: 10px auto 0;
+		padding: 0;
+		width: 900px;
+	}
+
+	#graphleft {
+		float: left;
+		height: 290px;
+		margin:10px 0 0 70px;
+		width: 350px;
+	}
+
+	#flex {
+		float: right;
+		height: 225px;
+		margin: 0 0 auto;
+		padding-bottom: 20px;
+		padding-right: 30px;
+		padding-top: 20px;
+		width: 450px;
+	}
+
+	.votesTeamOne {
+		width:120px;
+		height:1px;
+		background:#F68722;
+	}
+
+	.votesTeamTwo {
+		width:120px;
+		height:1px;
+		background:#BF2227;
+	}
+
+	.voteBar {
+		vertical-align: bottom;
+		height: 245px;
+	}
+
+	.voteHeadline {
+		padding:4px 0 0 0;
+		font-family:Arial,sans-serif;
+		font-size:14px;
+		font-weight: bold;
+		text-align: center;
+	}
+
+
+
+	/* Styles for invite form */
+
+	#invite {
+		background-image: url("../img/challengeBG.png");
+		background-repeat: no-repeat;
+		color: #CCCCCC;
+		height: 80px;
+		margin: 40px auto 0;
+		padding: 100px 50px 0 195px;
+		width: 655px;
+	}
+
+	#form {
+	  float: left;
+	  height: 30px;
+	  width: 200px;
+	}
+
+	#form2 {
+	  float: left;
+	  height: 30px;
+	  margin-left: 180px;
+	  width: 180px;
+	}
+
+	.confirmChallenge {
+		width:400px;
+		margin:auto;
+		font-family: Arial, sans-serif;
+		font-size: 16px;
+		font-weight: bold;
+		color:#BF2227;
+		text-align: center;
+	}
+
+
+

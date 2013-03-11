@@ -1,0 +1,42 @@
+Array
+(
+    [mc_gross] => 14.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => L34CTEAFKFJ6C
+    [tax] => 0.00
+    [payment_date] => 19:40:08 Dec 19, 2012 PST
+    [payment_status] => Pending
+    [charset] => windows-1252
+    [first_name] => Test
+    [mc_fee] => 0.71
+    [notify_version] => 3.7
+    [custom] => 
+    [payer_status] => verified
+    [business] => billin_1247464613_biz@ignitei.com
+    [quantity] => 14
+    [verify_sign] => AiPC9BjkCyDFQXbSkoZcgqH3hpacAn0pp2DElgK4NxHIDYkSw1waZTtz
+    [payer_email] => scott_1247461433_per@ignitei.com
+    [txn_id] => 97G72749XM608184X
+    [payment_type] => instant
+    [btn_id] => 2667879
+    [last_name] => User
+    [receiver_email] => billin_1247464613_biz@ignitei.com
+    [payment_fee] => 0.71
+    [shipping_discount] => 0.00
+    [insurance_amount] => 0.00
+    [receiver_id] => J77B55AJPEBVY
+    [pending_reason] => paymentreview
+    [txn_type] => web_accept
+    [item_name] => Vote for Team B
+    [discount] => 0.00
+    [mc_currency] => USD
+    [item_number] => vote_team_b
+    [residence_country] => US
+    [test_ipn] => 1
+    [handling_amount] => 0.00
+    [shipping_method] => Default
+    [transaction_subject] => Vote for Team B
+    [payment_gross] => 14.00
+    [shipping] => 0.00
+    [ipn_track_id] => 2b97154954e3
+)

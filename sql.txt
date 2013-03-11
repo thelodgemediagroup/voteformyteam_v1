@@ -1,0 +1,1 @@
+INSERT INTO votes (team_id, votes, voter_email) VALUES('vote_team_b','14','scott_1247461433_per@ignitei.com') 
